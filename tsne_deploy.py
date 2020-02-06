@@ -8,7 +8,7 @@ import matplotlib
 import seaborn as sns
 
 # Bokeh
-from bokeh.plotting import figure, show
+from bokeh.plotting import figure, show, curdoc
 from bokeh.models import HoverTool, CustomJS, ColumnDataSource, Slider
 from bokeh.layouts import column
 from bokeh.palettes import all_palettes
@@ -77,4 +77,4 @@ slider = Slider(start=wuhan_virus.timestamp_epochs.min().day, end=wuhan_virus.ti
 slider.js_on_change('value', callback)
 
 layout = column(slider, plot_tsne)
-show(layout)
+curdoc().add_root(layout)
