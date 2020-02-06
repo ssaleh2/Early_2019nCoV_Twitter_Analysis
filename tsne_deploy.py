@@ -77,3 +77,4 @@ slider = Slider(start=wuhan_virus.timestamp_epochs.min().day, end=wuhan_virus.ti
 slider.js_on_change('value', callback)
 
 layout = column(slider, plot_tsne)
+show(layout)
