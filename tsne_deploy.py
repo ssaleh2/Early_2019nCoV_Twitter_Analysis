@@ -13,10 +13,10 @@ from bokeh.models import HoverTool, CustomJS, ColumnDataSource, Slider
 from bokeh.layouts import column
 from bokeh.palettes import all_palettes
 
-hm = pd.read_csv('hmdf_FINAL_tsne_020420_0.csv').values
+# hm = pd.read_csv('hmdf_FINAL_tsne_020420_0.csv').values
 embedding = pd.read_csv('embeddings_FINAL_tsne_020420_0.csv')
-embedding = pd.DataFrame(embedding, columns=['x','y'])
-embedding['hue'] = hm.argmax(axis=1)
+# embedding = pd.DataFrame(embedding, columns=['x','y'])
+# embedding['hue'] = hm.argmax(axis=1)
 
 source = ColumnDataSource(
         data=dict(
