@@ -1,1 +1,1 @@
-# Eary_2019nCoV_Twitter_Analysis
+# Early 2019-nCoV Twitter Analysis
