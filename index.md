@@ -1,6 +1,6 @@
 
 
-<iframe src="/Final_Interactive_TSNE_10Topics_nCoV2019.html"
+<iframe src="/assets/img/Final_Interactive_TSNE_10Topics_nCoV2019.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="700"
