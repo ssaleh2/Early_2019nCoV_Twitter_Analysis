@@ -15,6 +15,8 @@ from bokeh.palettes import all_palettes
 
 # hm = pd.read_csv('hmdf_FINAL_tsne_020420_0.csv').values
 embedding = pd.read_csv('embeddings_FINAL_tsne_020420_0.csv')
+wuhan_virus = pd.read_csv('2019nCoV_time_w_tweet_text.csv')
+wuhan_virus.timestamp_epochs = pd.to_datetime(wuhan_virus.timestamp_epochs)
 # embedding = pd.DataFrame(embedding, columns=['x','y'])
 # embedding['hue'] = hm.argmax(axis=1)
 
