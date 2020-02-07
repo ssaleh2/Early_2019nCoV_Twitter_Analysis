@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 exclude: ["ReadMe.md", "Rakefile", "License.md"]
 
-title: A Twitter Analysis of the 2019-nCoV
+title: An Early Twitter Analysis of the 2019-nCoV Outbreak
 author: Sameh Saleh
 email: sameh.n.saleh@gmail.com
 github: ssaleh2
