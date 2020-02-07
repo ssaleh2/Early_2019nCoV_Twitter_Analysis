@@ -3,7 +3,7 @@ A t-distributed Stochastic Neighbor Embedding (t-SNE) graph embeds high-dimensio
 
 <iframe src="https://tsne-topic-twitter-ncov2019.herokuapp.com/tsne_deploy"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="1000"
     height="1000"
     scrolling="yes"
     seamless="seamless"
