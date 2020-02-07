@@ -1,7 +1,11 @@
+import matplotlib
+matplotlib.use('Agg')
+
 import pandas as pd
 import numpy as np
 
 # Visualization
+
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import matplotlib
