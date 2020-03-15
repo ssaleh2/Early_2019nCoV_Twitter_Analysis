@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 exclude: ["ReadMe.md", "Rakefile", "License.md"]
 
-title: An Early Twitter Analysis of the COVID-19 Outbreak
+title: Leveraging Social Media to Understand Public Perception of the COVID-19 Pandemic
 author: Sameh Saleh
 email: sameh.n.saleh@gmail.com
 github: ssaleh2
