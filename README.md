@@ -1,14 +1,14 @@
-# Overview: 
+# Overview
 We leverage social data streams like Twitter, Reddit, and Google Trends to understand public sentiment, evaluate discussed topics, and identify dispersion of misinformation and disinformation about the COVID-19 pandemic.  
 
-# Goal: 
+# Goal 
 We plan to utlize automated bots to tailor individualized public health messages in real-time based on user emotion and interest.  
 
-# Projects: 
+# Projects
 
 ## An Early Twitter Analysis of the COVID-19 Outbreak
 
-> Below is a sample figure from this work that utlizes a natural language processing algortihm to identify topics discussed by Twitter user in the early (January 14 - 28) stages of the COVID-19 outbreak.  
+**Below is a sample figure from this work that utlizes a natural language processing algortihm to identify topics discussed by Twitter user in the early (January 14 - 28) stages of the COVID-19 outbreak.**
 
 **Figure 6a.** 
 The fifteen terms (in order of weighting) that contributed to each abstract topic with their potential theme labels. The topics are ordered by frequency. Colors for each topic correspond to those in Figure 6b. Topic labels were assigned by the authors. 
