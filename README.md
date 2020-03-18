@@ -4,6 +4,12 @@ We leverage social data streams like Twitter, Reddit, and Google Trends to under
 # Goal 
 We plan to utlize automated bots to tailor individualized public health messages in real-time based on user emotion and interest.  
 
+# Who We Are
+We are a team of physicians (internal medicine, pediatrics, infectious diseases) at UT Southwestern Medical Center in Dallas, TX with a background in clinical informatics. 
+
+# Contact Information
+Please email us at sameh.n.saleh@gmail.com and richard.medford@gmail.com if you are interested in getting involved or would like to discuss more. 
+
 # Projects
 
 ### An Early Twitter Analysis of the COVID-19 Outbreak
